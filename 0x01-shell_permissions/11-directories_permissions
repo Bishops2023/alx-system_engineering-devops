@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo -R +x.
+sudo chmod -R +111*/
